@@ -100,6 +100,7 @@ public class FileOpener2 extends CordovaPlugin {
 		} catch (Exception e) {
 			fileName = fileArg;
 		}
+		Log.d("trx", fileName);
 		File file = new File(fileName);
 		if (file.exists()) {
 			try {
