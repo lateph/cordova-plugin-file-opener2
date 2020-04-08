@@ -28,7 +28,7 @@ import java.util.List;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-import android.util.Log
+import android.util.Log;
 
 import android.content.Context;
 import android.content.Intent;
